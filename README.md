@@ -17,8 +17,7 @@ CREATE TABLE `bb_news_grab` (
  INDEX `import_id` (`import_id`)
 )
 COLLATE='utf8_general_ci'
-ENGINE=MyISAM
-AUTO_INCREMENT=47;
+ENGINE=MyISAM;
 
 /*** Cron task run every 15 min ***/
 
